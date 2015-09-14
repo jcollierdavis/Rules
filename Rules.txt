@@ -2,11 +2,14 @@
 The Server's rules
 
 1. Play nice
-2. Only the GM can ban/unban players
-  a. Regular players will not make decisions about who can and who can't play
-3. Do not PvP another player without asking first
-4. Avoid using World Edit to make large structures
-  a. This creates lots of server lag
-5. Do not share the server IP with your friends
+2. Respect other players and the server staff
+3. Don't be a griefer.  Don't harass other players or their structures.
+4. Don't cheat or abuse the game.
+5. Only the GM can ban/unban players
+  a. Players will not make decisions about who can and who can't play
+6. Do not PvP another player without asking first
+7. Avoid using World Edit to make large structures
+  a. This creates lots of lag and can crash the server
+8. Do not share the server IP
   a. The server isn't very powerfull and can only handle a few players at the same time
-6. 
+ 
